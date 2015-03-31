@@ -10,7 +10,7 @@
 	</div>
 	<div class="fix structure csv_form_area">
 		<div class="fix csv_form">
-			<h2>CSV File Validator </h2>
+			<h2>CSV Email Validator </h2>
 			<?php if(isset($_GET['error'])) {?>
 			<p style="display:inline;color:red">Please select a csv email file</p>
 			<?php } else { ?>
