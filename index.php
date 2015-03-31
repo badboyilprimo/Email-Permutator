@@ -1,5 +1,6 @@
 <html>
 <head>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/style.css">
 <title>Email SMTP validator and permutator </title>
 </head>
