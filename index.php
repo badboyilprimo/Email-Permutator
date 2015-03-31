@@ -11,9 +11,9 @@
 		<div class="fix csv_form">
 			<h2>CSV File Validator </h2>
 			<?php if(isset($_GET['error'])) {?>
-			<p style="display:inline;color:red">Please select an csv email file</p>
+			<p style="display:inline;color:red">Please select a csv email file</p>
 			<?php } else { ?>
-			<p style="display:none;color:red">Please select an csv email file</p>
+			<p style="display:none;color:red">Please select a csv email file</p>
 			<?php } ?>
 			<form method="post" action="csv_email_validator.php" enctype="multipart/form-data">
 				<p>Browse Email CSV file :<input type="file" name="email_file" id="email_file"></p>		
