@@ -33,7 +33,7 @@
 		if (move_uploaded_file($_FILES["email_file"]["tmp_name"], $file_dir)) {
 
 			// an optional sender
-			$sender = 'shamim_ict0754@yahoo.com';
+			$sender = 'someemail@youremail.com';
 			// instantiate the class
 			$SMTP_Validator = new SMTP_validateEmail();
 			// the email to validate
