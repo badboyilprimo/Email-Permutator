@@ -71,7 +71,7 @@
 		<div class="fix csv_form">
             <?php
 			  if($fileType != "csv" ) {
-				die("Sorry, csv files are allowed only.");
+				die("What are you trying to feed me (✖╭╮✖), only csv files are allowed.");
 			}
 			?>
 			<h2>Valid Email:</h2>
