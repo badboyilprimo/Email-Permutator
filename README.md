@@ -18,3 +18,5 @@ To see it running, test it out here http://gb-emailvalidator.azurewebsites.net/
 **Please play nice with our hosting server, it takes a while for it to run since its stored on a shared windows machine
 
 Suggested hosting: We suggest you host this on a VPS host or a Linux VM, it can put pressure on your server if you use shared hosting so be careful. 
+
+The validator can be easily integrated into a sign up system so you never have to send activation emails, use if and else statements to decline sign ups for inactive emails. 
